@@ -1,0 +1,7 @@
+torch
+yolov5
+opencv-python
+numpy
+Pillow
+customtkinter
+tk
