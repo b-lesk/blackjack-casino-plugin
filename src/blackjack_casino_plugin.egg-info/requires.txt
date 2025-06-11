@@ -1,0 +1,4 @@
+pytesseract
+Pillow
+keyboard
+opencv-python
