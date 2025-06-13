@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 Metadata-Version: 2.1
 Name: blackjack-casino-plugin
 Version: 0.1.0
 Summary: A plugin for online gambling casinos that provides Blackjack advice based on detected cards.
 Author: Your Name
 Author-email: your.email@example.com
-=======
-Metadata-Version: 2.1
-Name: blackjack-casino-plugin
-Version: 0.1.0
-Summary: A plugin for online gambling casinos that provides Blackjack advice based on detected cards.
-Author: Your Name
-Author-email: your.email@example.com
->>>>>>> 81189add828c30b4502f53de01b6c2e363570616
